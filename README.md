@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Aimen! 👋
 
-<!--
-**aimen-04/aimen-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 My Contribution Snake
+![Snake animation](https://github.com/aimen-04/aimen-04/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vue,angular,html,css,bootstrap" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,django,nodejs,express,java,spring,php,laravel,cs,dotnet,mysql,postgres,mongodb" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,figma,azure,gcp,vercel,postman" />
+</p>
