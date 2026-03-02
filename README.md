@@ -4,13 +4,11 @@
   <a href="https://www.linkedin.com/in/aimen-hamama-816b3b2b3" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp; <!-- Pour ajouter un petit espace entre les boutons -->
+  &nbsp;&nbsp;
   <a href="mailto:aimenhamama201@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
 
 # Hi, I'm Aimen Hamama 👋
 ### Computer Engineering Student | International Trade & Logistics Specialist
@@ -36,24 +34,41 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 ## 📊 GitHub Activities
 
 <p align="center">
-  <table align="center">
+  <table align="center" border="0">
     <tr>
       <td align="center">
-        <!-- Stats Card (Miroir plus stable) -->
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimenhamama&show_icons=true&theme=radical&hide_border=true" height="180" />
+         <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=aimenhamama&show_icons=true&theme=radical&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=aimenhamama&show_icons=true&theme=default&hide_border=true">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimenhamama&show_icons=true&theme=default&hide_border=true" height="180" />
+        </picture>
       </td>
       <td align="center">
-        <!-- Streak Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimenhamama&theme=tokyonight&hide_border=true" height="180" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aimenhamama&theme=tokyonight&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aimenhamama&theme=default&hide_border=true">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimenhamama&theme=default&hide_border=true" height="180" />
+        </picture>
       </td>
     </tr>
   </table>
 </p>
 
-# 🧩 Contribution Graph
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake.svg">
-</picture>
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+## 🏆 Certifications
+- **Full Stack Development** - Ecole Nationale Supérieure d'Arts et Métiers (ENSAM)
+- **Open Hardware & IoT** - UNESCO
+- **Supply Chain Fundamentals** - PM Coaching
