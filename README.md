@@ -28,12 +28,11 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 
 ## 🛠️ Technical Arsenal
 
-| Category | technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=php,nodejs,py,java,cs" /> |
-| **Database & Tools** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,figma,postman" /> |
-
+<p align="center">
+  <marquee behavior="alternate" scrollamount="3">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,bootstrap,php,laravel,py,django,nodejs,java,spring,cs,dotnet,mysql,postgres,mongodb,git,docker,figma" />
+  </marquee>
+</p>
 ---
 
 ## 📊 GitHub Activities
@@ -43,14 +42,6 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimen-04&show_icons=true&theme=radical&hide_border=true" alt="Aimen's Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimen-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📱 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aimen-hamama-816b3b2b3" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aimen-hamama" /></a>
-  <a href="mailto:aimenhamama201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aimenhamama201@gmail.com" /></a>
 </p>
 
 ---
