@@ -25,29 +25,19 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 
 ---
 
-## 💻 Technical Arsenal
+## 🛠️ Technologies & Tools
 
-> **Frontend**
-> `React` `TypeScript` `Next.js` `Tailwind` `Bootstrap`
-> <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,bootstrap" />
-
-> **Backend**
-> `Python` `PHP` `Node.js` `Java` `.NET` `MySQL`
-> <img src="https://skillicons.dev/icons?i=py,php,nodejs,java,dotnet,mysql" />
-
-> **Tools**
-> `Git` `Docker` `Linux` `Figma` `Postman`
-> <img src="https://skillicons.dev/icons?i=git,docker,linux,figma,postman" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,nodejs,express,py,java,c,mysql,mongodb,git,vscode,docker" />
+</p>
 
 ---
 
 ## 📊 GitHub Activities
 
 <p align="center">
-  <!-- Utilisation d'un serveur alternatif (miroir) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aimen-04&show_icons=true&theme=radical&hide_border=true" alt="Aimen's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimen-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aimen-04&show_icons=true&theme=radical&hide_border=true" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aimen-04&theme=tokyonight&hide_border=true" height="195" />
 </p>
 
 ---
