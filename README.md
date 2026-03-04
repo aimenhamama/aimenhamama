@@ -18,7 +18,7 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 - 🎓 **Education:** Engineering Degree at SUPMTI & International Trade at FSJESM.
 - 🏢 **Focus:** information system (SI), Full-stack Development, and Data Analysis.
 - 🚀 **Key Projects:** World Cup 2030 Fan Platform & Dar Al-Andalus Reservation System.
-- ✉️ **Contact:** aimenhamama201@gmail.com
+
 - 🔗 **LinkedIn:** [Aimen Hamama](https://www.linkedin.com/in/aimen-hamama-816b3b2b3)
 
 ---
