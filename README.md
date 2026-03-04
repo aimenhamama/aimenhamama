@@ -79,8 +79,9 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 </div>
  -->
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" align="center" alt="Banner" width="80%" />
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="80%" />
+</div>
 
 
 
