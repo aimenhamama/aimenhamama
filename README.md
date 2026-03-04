@@ -56,13 +56,6 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 
 ---
 
-## 📊 GitHub Stats & Trophies
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -72,5 +65,13 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
+
+---
+
+## 📊 GitHub Stats & Trophies
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
 
 
