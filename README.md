@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h1 align="right">Hey, <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aimen Hamama</h1>
+<h1 align="left">Hey, <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Aimen Hamama</h1>
 ### Computer Engineering Student | International Trade & Logistics Specialist
 
 I am a dual-degree student in **Computer Engineering** and **International Trade**. I specialize in bridging the gap between technical software solutions and global supply chain optimization.
