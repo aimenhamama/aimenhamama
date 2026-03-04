@@ -68,6 +68,14 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 
 ---
 
+          <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+
+
+---
+
 ## 📊 GitHub Stats & Trophies
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
