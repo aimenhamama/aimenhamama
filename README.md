@@ -30,7 +30,7 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Activities
 
 <p align="center">
@@ -55,7 +55,7 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
 </p>
 
 ---
-
+-->
 
 ## 🐍 Contribution Graph
 
