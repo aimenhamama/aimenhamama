@@ -65,7 +65,7 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aimenhamama/aimenhamama/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</p>
+</p>         
 
 <!-- ---
 
