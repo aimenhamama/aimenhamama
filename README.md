@@ -54,7 +54,7 @@ I am a dual-degree student in **Computer Engineering** and **International Trade
       </td>
     </tr>
   </table>
-</p>
+</p> 
 
 ---
  -->
